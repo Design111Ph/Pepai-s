@@ -1,0 +1,6 @@
+{
+  "name": "Pepai's Food Costing & Kitchen Inventory OS",
+  "description": "Multi-location real-time food costing calculator, inventory tracking, profit margin reports, automated stock alerts, offline kitchen mode, and role-based access control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
